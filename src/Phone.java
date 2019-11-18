@@ -3,7 +3,7 @@ public class Phone {
     public String imei;
     public byte storgae;
     public boolean isNew;
-    public String color:
+    public String color;
 
     public void isCdma(){}
     public void isGsm(){}
